@@ -1,0 +1,22 @@
+Admin,true,admin,123,adminProfilePic.jpg,1223455342,12-5-2001,admin@sm.com,In what city were you born?,Klang
+Owner,true,nora_ask78,yihong,nora_ask78ProfilePic.jpg,012345678,6-8-1988,noraask@gmail.com,0124789295
+Owner,true,snowidun,yihong,snowidunProfilePic.jpg,0123160713,5-4-2000,snowidun@gmail.com,0123160713
+Owner,true,rafi,yihong,rafiProfilePic.jpg,01112326583,3-6-1994,-,01112326583
+Owner,true,hezli,yihong,hezliProfilePic.jpg,012345678,6-10-1970,hezli@yahoo.com,0122718786
+Owner,true,Asyraf Hazimi,yihong,Asyraf HazimiProfilePic.jpg,0123456789,1-1-2021,AsyrafHazimi@outlook.com,-
+Owner,true,Chan,yihong,ChanProfilePic.jpg,012345678,4-5-1959,chanliaolo@gmail.com,-
+Owner,true,Eric YCEM,yihong,Eric YCEMProfilePic.jpg,012891101,4-2-2006,eric@gmail.com,0122970977
+Owner,true,Jen Cpj,yihong,Jen CpjProfilePic.jpg,0199810336,5-1-1983,Jenisme@gmail.com,-
+Owner,true,Kumaran,yihong,KumaranProfilePic.jpg,0122212197,2-1-1994,Kumaran@yahoo.com,0122212197
+Owner,true,Emy Mohd Nor,yihong,Emy Mohd NorProfilePic.jpg,0122075240,3-1-1997,Emy@gmail.com,-
+Agent,true,Justin Tan,123,Justin TanProfilePic.png,0129196819,6-5-1999,-,Reapfield Properties (HQ) Sdn. Bhd. ,E(1)0452 ,REN 09710,-,Justin TanDescription.txt
+Agent,true,Tracy Loi,123,Tracy LoiProfilePic.png,0172179163,7-8-1989,tracyloi@gmail.com ,IQI Realty - Klang Lama ,E(1)1584 ,REN 34979,-,Tracy LoiDescription.txt
+Agent,true,John Lee,123,John LeeProfilePic.png,0133995698,10-6-1988,johnlee@gmail.com ,Jyms Properties - Sri Petaling ,E(1)1112 ,REN 20991,-,John LeeDescription.txt
+Agent,true,Andrew Liew,david,Andrew LiewProfilePic.png,016 435 0103,6-6-1988,-,GLOBAL LINK PROPERTIES (KL) SDN. BHD.,E (1) 1481/2,-,+6016 435 0103,Andrew LiewDescription.txt
+Agent,true,Mr Chew,david,Mr ChewProfilePic.png,018 218 8587,21-9-1985,-,THE ROOF REALTY SDN. BHD.,E (1) 1605,43018,+6018 218 8587,Mr ChewDescription.txt
+Agent,true,Kent Fatt,david,Kent FattProfilePic.png,017 293 1115,29-4-1971,-,IQI REALTY SDN. BHD.,E (1) 1584,-,+6017 293 1115,Kent FattDescription.txt
+Agent,true,Wai Wai,david,Wai WaiProfilePic.png,018 296 6339,18-7-1996,-,Rexus Realty,E (3) 1788,30909,+60 993 656,Wai WaiDescription.txt
+Tenant,true,sinzhung,123,sinzhungProfilePic.jpg,011234355677,6-10-2001,tansinzhung@gmail.com
+Tenant,true,thinghong,123,thinghongProfilePic.png,0189038772,21-9-2001,davidd@gmail.com
+Admin,true,cactus,11911,cactusProfilePic.jpg,0123893844,6-5-2001,alvin@gmail.com,What was your favorite food as a child?,spaghetti
+Tenant,false,yihong,123,yihongProfilePic.png,0110938938323,3-8-2001,yihong@hotmail.com
